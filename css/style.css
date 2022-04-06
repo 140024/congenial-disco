@@ -1,0 +1,73 @@
+.container {
+    background-color: #2C3333;
+    margin: 0 auto;
+}
+
+p, li {
+    color: white;
+    font-size: 90%;
+}
+
+h2 {
+    color: yellow;
+    margin: auto;
+    text-align: center;
+    font-size: large;
+
+}
+
+.row {
+    display: block;
+    padding-bottom: 1%;
+    margin: 0 auto;
+}
+
+input {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: red;
+    border-radius: 15%;
+    padding: 1%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.too-much {
+    padding-top: 4%;
+    margin: 0 auto;
+}
+
+#foot {
+    font-size: 110%;
+    border-top: solid;
+    border-color: rgb(212, 161, 32);
+    /* margin-top: .5%; */
+    padding: 1.5%;
+    background-color: grey;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding-right: 2%;
+}
+
+table, th, td{
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: .05%;
+    font-size: 90%;
+}
+
+.head{
+    color: yellow;
+}
+
+#content{
+    display: none;
+}
